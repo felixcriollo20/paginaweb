@@ -10,3 +10,7 @@ h1 {
     font-size : 5em;
     color: rgb(252, 6, 6); 
 }
+@font-face {    
+    font-family: "DS-DIGII";
+    src: url("../fonts/DS-DIGII.TTF");
+}
