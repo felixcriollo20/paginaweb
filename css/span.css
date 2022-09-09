@@ -1,0 +1,23 @@
+.name-style {
+    /*   */
+    font-size: 2em;
+    color: black;
+}
+.name-style{
+    color: rgb(64, 64, 64,.8);}
+/* ejemplo de clase de elemento */
+h2 {
+    color:red;
+}
+/* ejemplo clase de atada  */
+h2.name-style {
+    color: blue;
+}
+/* ejemplo clase no atada    */ 
+.text-style {
+    color: darkcyan;
+}
+/* ejemplo de estilo utilizando id */ 
+#text-style {
+    color: blueviolet;
+}
