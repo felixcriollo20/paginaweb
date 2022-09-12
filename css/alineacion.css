@@ -21,7 +21,36 @@ display: inline-block;
 text-align: justify;
 width: 250px;
 height: 250px;
-background-color: rgb(160, 45, 165) ;
+background-color: rgb(238, 224, 238) ;
+}
+.box-1{
+    margin-top: 2px;
+    border-right: 5px solid darkcyan;
+    padding: 25px rgb(206,104,104);
+    background-color: aliceblue;
+    margin-bottom: 20px;
+
+}
+.box-2{
+    margin-top: 2px;
+    border-right: 5px solid rgb(217, 230, 230);
+    padding: 25px rgb(206,104,104);
+    background-color: rgb(53, 129, 196);
+    margin-bottom: 20px;
+}
+.box-3{
+    margin-top: 2px;
+    border-right: 5px solid darkcyan;
+    padding: 25px rgb(206,104,104);
+    background-color: rgb(214, 104, 41);
+    margin-bottom: 20px;
+}
+.box-4{
+    margin-top: 2px;
+    border-right: 5px solid darkcyan;
+    padding: 25px rgb(206,104,104);
+    background-color: rgb(221, 65, 161);
+    margin-bottom: 20px;
 }
 
  
