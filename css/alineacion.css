@@ -33,7 +33,7 @@ background-color: rgb(238, 224, 238) ;
 }
 .box-2{
     margin-top: 2px;
-    border-right: 5px solid rgb(217, 230, 230);
+    border-right: 5px solid rgb(86, 187, 187);
     padding: 25px rgb(206,104,104);
     background-color: rgb(53, 129, 196);
     margin-bottom: 20px;
@@ -52,5 +52,6 @@ background-color: rgb(238, 224, 238) ;
     background-color: rgb(221, 65, 161);
     margin-bottom: 20px;
 }
+
 
  
