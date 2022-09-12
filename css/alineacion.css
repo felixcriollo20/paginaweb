@@ -1,6 +1,5 @@
 body{
-    font-family: 'Times New Roman', Times, serif;
-    color: blue;
+    background-color: burlywood;   
 }
 .left{
 color: darkcyan;
@@ -17,3 +16,12 @@ text-align: left;
 .justify { color:aqua ;
     text-align: justify;
 }
+ .box { 
+display: inline-block;
+text-align: justify;
+width: 250px;
+height: 250px;
+background-color: rgb(160, 45, 165) ;
+}
+
+ 
