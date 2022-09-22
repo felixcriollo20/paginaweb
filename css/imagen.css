@@ -1,0 +1,19 @@
+.container{
+    display: inline-flex;
+}
+.space{
+    width: 290px;
+    
+}
+.texto{
+    padding-left: 130px;
+    text-align: center;
+}
+p{
+    text-align: justify;
+    width: 18em;
+}
+.texto2 {
+    padding-left: 140px;
+    text-align: left;
+}
