@@ -1,19 +1,24 @@
 .container{
     display: inline-flex;
 }
-.space{
-    width: 290px;
-    
-}
 .texto{
-    padding-left: 130px;
+    padding-left: 140px;
+    padding-right: 64px;
     text-align: center;
+    border: 9px dashed rgb(88, 223, 223);
 }
 p{
     text-align: justify;
     width: 18em;
 }
 .texto2 {
-    padding-left: 140px;
+    padding-left: 139px;
+    padding-right: 100px;
     text-align: left;
+    border: 11px dashed rgb(124, 219, 226);
+}
+h1{
+    background-color: rgb(247, 57, 57);
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
 }
