@@ -1,12 +1,11 @@
 .container{
     display: inline-flex;
-    vertical-align: top;
-    float: left;
 }
 .texto{
     padding-left: 140px;
     padding-right: 64px;
     text-align: center;
+    /*border: 9px dashed rgb(88, 223, 223);*/
     border-radius: 6px;
 }
 p{
@@ -17,17 +16,12 @@ p{
     padding-left: 139px;
     padding-right: 100px;
     text-align: left;
-    border-radius: 6px;
+    /*border: 11px dashed rgb(124, 219, 226);*/
+    border: solid 6px coral;
 }
 h1{
-    background-color: rgb(247, 57, 57);
+    background-color: rgb(24, 12, 131);
     font-size: 3em;
     font-family: 'Times New Roman', Times, serif;
-}
-.img-100 {
-    border-radius: 6px;
-}
-.img{
-  /*  border :solid 1px #ccc;*/
-  border-radius: 2px;
+    text-align: center;
 }
