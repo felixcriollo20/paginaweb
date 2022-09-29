@@ -1,12 +1,22 @@
-.img-software {
-    width: 30%;
+*{
+    
 }
-.h1 {
-    text-align:center ;
+.container {
+    display: inline-block
+    withd: 29%
+    margin: 30px 1.5%;
+    vertical-align: top;
+    background-color: #fff;
 }
-.img-fondo2 {
-    width: 80%;
+.img{
+    width: 300px;
+    margin: 30px;
 }
-.img-fondo3 {
-  width:80%
+h1,h2{
+    font-size: 20em;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+p {
+    text-align: justify;
 }

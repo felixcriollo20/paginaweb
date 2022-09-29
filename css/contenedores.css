@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+
+}
+.container{
+    width: 100px;
+    height: 100px;
+    color: rgb(12, 12, 11);    
+}
+.box{
+    display: inline-block;
+    width: 0px;
+    height: 0px;
+    font-size: 1.3em;
+    color: black;
+}
+.box-1{
+    background-color: aqua;
+}
