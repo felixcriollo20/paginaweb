@@ -1,0 +1,27 @@
+.container{
+    display: inline-flex;
+}
+.texto{
+    padding-left: 140px;
+    padding-right: 64px;
+    text-align: center;
+    /*border: 9px dashed rgb(88, 223, 223);*/
+    border-radius: 6px;
+}
+p{
+    text-align: justify;
+    width: 18em;
+}
+.texto2 {
+    padding-left: 139px;
+    padding-right: 100px;
+    text-align: left;
+    /*border: 11px dashed rgb(124, 219, 226);*/
+    border: solid 6px coral;
+}
+h1{
+    background-color: rgb(24, 12, 131);
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}

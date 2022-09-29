@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 blockquote {
     font-size: 1.4em;
     color: floralwhite;
@@ -38,12 +39,57 @@ blockquote {
         padding: 25px rgb(206,104,104);
         background-color: rgb(221, 65, 161);
         margin-bottom: 20px;
+=======
+.box { 
+    background-color: rgb(41, 157, 99) ;
+    display: inline-block;
+    width: 200px;
+    height: 250px;
+    font-size: 0.9em;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 6em 1em 10em 1em;
+    letter-spacing: 0.2em;
+    word-spacing: 0.5em;
+    line-height: 1.3em;
+    padding: 1em;
+    color: ghostwhite;
+    }
+    .box-1{
+        Background-color: rgb(27, 69, 67);
+        border: 10px solid #52f6ee;
+        text-align: left;
+        text-indent: 2em;    
+    }
+    .box-2{
+        background-color: rgb(21, 80, 52);
+        border: 10px dotted #0afa36;
+        text-align: right;
+    }
+    .box-3{
+        Background-color: rgb(46, 44, 93);
+        border: 9px dashed #2f8f8a;
+        text-align: center;
+    }
+    .box-4{
+        Background-color: rgb(32, 35, 52);
+        border: 10px double #6937ae;
+        text-align: justify;
+>>>>>>> ef8dea4f8ab6cdd080319bf8359ddb0bbac7de73
     }
     .box-5{
         margin-top: 2px;
         border-right: 5px solid darkcyan;
         padding: 25px rgb(206,104,104);
+<<<<<<< HEAD
         background-color: rgb(26, 100, 96);
         margin-bottom: 20px;
     }
 
+=======
+        background-color: rgb(125, 55, 171);
+        margin-bottom: 1.5px;
+        border: 10px groove ;
+    }
+    
+>>>>>>> ef8dea4f8ab6cdd080319bf8359ddb0bbac7de73
