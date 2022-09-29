@@ -1,5 +1,5 @@
 .box{ 
-    display :inline-block;
+    display :flex;
     width: 120px;
     height : 120px;
     color: aqua;
@@ -14,21 +14,17 @@
 
 }
 .centrar-1{
-    width: 245px;
     margin: 0 auto;
-    padding: 8px;
     background-color: rgb(71, 230, 79);
 }
 .centrar-2{
     width: 445px;
     margin: 0 auto;
-    padding: 8px;
     background-color: rgb(241, 238, 19);
 }
 .centrar-3{
     width: 445px;
     margin: 0 auto;
-    padding: 8px;
     background-color: rgb(241, 238, 19);
 }
 .container {
