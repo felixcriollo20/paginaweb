@@ -1,0 +1,22 @@
+*{
+    
+}
+.container {
+    display: inline-block
+    withd: 29%
+    margin: 30px 1.5%;
+    vertical-align: top;
+    background-color: #fff;
+}
+.img{
+    width: 300px;
+    margin: 30px;
+}
+h1,h2{
+    font-size: 20em;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+p {
+    text-align: justify;
+}
