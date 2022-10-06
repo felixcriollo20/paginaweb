@@ -3,10 +3,7 @@
     font-size: 1.3em;  
 }
 .left{
-<<<<<<< HEAD
     color: darkcyan;
-=======
->>>>>>> ef8dea4f8ab6cdd080319bf8359ddb0bbac7de73
     text-align: left;
 }
 .right  {
@@ -15,15 +12,7 @@
 .center {
     text-align: center;
 }
-<<<<<<< HEAD
 .justify { 
     color:aqua ;
     text-align: justify;
 }
-=======
-.justify {
-    text-align: justify;
-}
-
- 
->>>>>>> ef8dea4f8ab6cdd080319bf8359ddb0bbac7de73
