@@ -1,0 +1,18 @@
+.table-style{
+    border: none;
+}
+tbody,thead{
+    background-color: aqua;
+    height: 5px;
+}
+td {
+    padding: 10px 5px;
+    font-size: 1.3em;
+}
+
+h1{
+    text-align: center;
+}
+table{
+    margin-left: 33%;
+}
