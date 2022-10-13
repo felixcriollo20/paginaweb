@@ -19,3 +19,9 @@ img {
     display:flex;
     justify-content:center ;
 }
+tbody{
+    border:collapse;
+}
+thead{
+    background-color: bisque;
+}

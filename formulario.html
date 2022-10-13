@@ -9,17 +9,37 @@
 </head>
 <body>
     <h1> citas</h1>
-    <form> 
-        <label>ingrese tipo dodumento</label>
-        <select>
+    <form>
+        <fieldset>ingrese informacion solicitada
+            <legend>ingrese informacion solicitada 
+            <label>ingrese tipo dodumento</label>
+            <select>
             <option value="">Registro civil</option>
             <option value="">tarjeta de identidad </option>
             <option value="">cedula ciudadania</option>
             <option value="">cedula de extrajeria</option>
-        </select><br>
-        <label>ingrese su numero de documento</label><br>
+            </select><br>
+            <label>ingrese su numero de documento</label><br>
+         <input type="text" placeholder ="ingrese numero de docuemnto"> 
+         <label>ingrese su(s) nombres</label><br>
+         <input type="text"><br>
+         <label>ingrese su(s) apellidos</label><br>
          <input type="text">
-
-        </form>
+         <label>ingrese su Genero</label><br>
+         <input type="radio" name="Genero"  id="">masculino<br>
+         <input type="radio" name="Genero"  id="">femeninino<br>
+         <input type="radio" name="Genero"  id="">indeterminado<br>
+         <label>seleccione el dia de cita </label>
+         <input type="checkbox" name="dia cita" id="xx"> lunes<br>
+         <input type="checkbox" name="dia cita" id="xx"> martes<br>
+         <input type="checkbox" name="dia cita" id="xx"> miercoles<br>
+         <input type="checkbox" name="dia cita" id="xx"> jueves<br>
+         <input type="checkbox" name="dia cita" id="xx"> viernes<br>
+         <label>DUDAS E INQUIETUDES</label>
+         <textarea  name="" id="" cols="30" rows="30"></textarea>
+         <input type="submit" value="enviar">
+         <button>comfirmar</button>
+        </fieldset>
+    </form>
 </body>
-</html>
+</html>                    
