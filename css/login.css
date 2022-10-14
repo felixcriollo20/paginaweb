@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenedor-login{
+    border: solid 1px blue;
+}
+.cabecera-azul{
+    background-color: blue;
+    color: #fff;
+    padding: 10px 30px;
+}
+
+.cuerpo-login{
+    padding: 10px 30px;
+}
+
+.titulo-azul{
+    color: rgb(65, 162, 241);
+}
