@@ -8,18 +8,10 @@ body {
 h1 {
     font-family: 'Game of Thrones';
     font-size: 6em;
-<<<<<<< HEAD
     color: rgb(255, 253, 253); 
 
 }
 @font-face {    
   font-family: 'Game of Thrones';
   src: url("../fonts/Game\ of\ Thrones.ttf");
-=======
-    color: rgb(165, 165, 165);
-}
-@font-face {
-    font-family:'/Game\ of\ Thrones.ttf';
-    src: url(/fonts/Game\ of\ Thrones.ttf);
->>>>>>> ef8dea4f8ab6cdd080319bf8359ddb0bbac7de73
 }
