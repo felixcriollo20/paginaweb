@@ -21,18 +21,18 @@
 p{
     text-align: center;  
 }
-.box-y,.box-x,.box-h,.box-l{
-    background-color: dodgerblue; 
-}
 .tolo{
-    width: 80px;
+    width: 200px;
     height: 80px;
     padding: 100px;
-    right: 0%;
+    right: 100%;
     position: fixed;
     bottom: 80px;
     margin: 10px;
 }
 .boxz{
     background-color: aqua;
+    width: 200px;
+    height: 80px;
+
 }

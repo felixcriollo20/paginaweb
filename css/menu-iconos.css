@@ -3,41 +3,21 @@
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
 } 
-.menu{
-    position: flex;
-    width: 100%;
-    height: 100vh;
-    background: rgba(0, 0,0,0 .4);
-    top: 0 ;
-    left:0;
-    border-right:1px solid rgba(red, green, blue, alpha) ;
-    cursor:pointer;
-}
+
 /* estilos encabezados */
-.nav{
-    font-size: 1.3em;
-    padding: 0;
-    text-decoration: none;
-    height: 100vh;
-}
 li,ul{
     height: 30px;
     padding: 5px;
-}
-a{
-    text-decoration: aqua;
-}
-hr{
-    border:0;
-    margin: 0;
-    width: 95%;
-    height: 1px;
-    background-color: aliceblue;
+    font-size: 1.1em;
 }
 ul:hover {
-    color: chartreuse;
+    background-color: rgb(243, 161, 9);
 }
-.container{
+nav {
     height: 100vh;
-    background-color: burlywood;    
+    width: 255px;
+    background-color: rgb(210, 221, 221);
+}
+.linea{
+    border-bottom: 1px solid  black;
 }
