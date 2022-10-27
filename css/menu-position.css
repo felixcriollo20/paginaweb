@@ -1,0 +1,38 @@
+.box{
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    display: inline-flex;
+    position: static;
+    text-align: center;
+}
+.box-1{
+    background-color: antiquewhite;
+}
+.box-2{
+    background-color: aqua;
+}
+.box-3{
+    background-color: beige;
+}
+.box-4{
+    background-color: bisque;
+}
+p{
+    text-align: center;  
+}
+.box-y,.box-x,.box-h,.box-l{
+    background-color: dodgerblue; 
+}
+.tolo{
+    width: 80px;
+    height: 80px;
+    padding: 100px;
+    right: 0%;
+    position: fixed;
+    bottom: 80px;
+    margin: 10px;
+}
+.boxz{
+    background-color: aqua;
+}
