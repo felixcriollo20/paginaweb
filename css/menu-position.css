@@ -30,3 +30,18 @@ p{
     bottom: 80px;
     margin: 10px;
 }
+.cuadro{
+    width: 200px;
+    height: 200px;
+    right: 85%;
+    background-color: rgb(245, 241, 241);
+    color: aqua;
+    position: static;
+}
+.rodo{
+    margin-left: 89%;
+    bottom: 65%;
+    position: fixed;
+    display:block;
+    box-sizing: 0;
+}
