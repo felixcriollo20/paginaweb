@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin:0%
+}
+body {
+    background-image:url(../img/developer-1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: rgb(204, 202, 206);
+}
+h1{
+    color: #000;
+    font-size: 45px; 
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+    font-size: 25px;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+a:hover {
+    color: chartreuse;
+}
+.linea{
+    border-bottom: 1px solid #000;
+    font-size: 1px;
+}
+.yobo{
+    height: 100vh;
+    width: 200px;
+    padding-right: 100rem;
+    box-sizing: 0;
+    background-color: rgb(252, 162, 162);
+}
