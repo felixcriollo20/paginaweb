@@ -4,6 +4,7 @@ body {
 nav {
     display: flex;
     width: 100%;
+    background-color: bisque;
 }
 h1{
     color: #000;
@@ -11,14 +12,15 @@ h1{
 }
 ul li{
     display: inline-block;
+ 
 }
 a:hover {
-    color: chartreuse;
+    color: rgb(167, 255, 248);
 }
 .linea{
     border-bottom: 1px solid #000;
     font-size: 1px;
-    width: 200px;
+    width: 150px;
 }
 .yobo{
     height: 30vh;
@@ -26,7 +28,7 @@ a:hover {
     padding-top: 50px;
     position: fixed; 
 } 
-ul:hover {background-color: aqua;
+ ul:hover {background-color: rgb(220, 228, 228);
 }
 .floating{
     margin-top: 2px;
@@ -34,8 +36,7 @@ ul:hover {background-color: aqua;
     position: fixed;
     background-color: gray;
 }
-.linea2{ border-bottom: 1px solid #000;
-    font-size: 1px  ;
+.linea2{ 
     width: 20px;
-    display: inline-block;
+    border-right: 5px solid rgb(224, 22, 22);
 }
