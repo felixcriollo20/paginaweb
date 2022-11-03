@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+  li {
+    list-style: none;
+    border-radius: 1px solid  black;
+  }
+  ul {
+    display: inline-flex;
+    cursor:pointer;
+  }
+  nav{
+    background-color: rgb(196, 196, 196);
+    width: 100%;
+ 
+  }
+  ul:hover {
+    background-color: rgb(143, 215, 236);
+    font-size: 1em;
+  }
+  .botom{
+    height: 1em;
+  }
+  
