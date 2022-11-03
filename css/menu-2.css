@@ -1,12 +1,6 @@
 body {
-    background-image:url(../img/developer-1920x1080.jpg);
-    background-repeat: no-repeat;
-    background-attachment:fixed;
-    background-position: center;
-    background-size: cover;
-
+    background: white;
 }
-
 nav {
     display: flex;
     width: 100%;
@@ -15,16 +9,8 @@ h1{
     color: #000;
     font-size: 45px; 
 }
-
 ul li{
     display: inline-block;
-    font-size: 25px;
-    width: 100px;
-    margin-right: 20px;
-}
-a{
-    color: #000;
-    text-decoration: none;
 }
 a:hover {
     color: chartreuse;
@@ -36,7 +22,7 @@ a:hover {
 }
 .yobo{
     height: 30vh;
-    width: 100px;
+    width: 150px;
     padding-top: 50px;
     position: fixed; 
 } 
@@ -46,4 +32,10 @@ ul:hover {background-color: aqua;
     margin-top: 2px;
     width: 100%;
     position: fixed;
+    background-color: gray;
+}
+.linea2{ border-bottom: 1px solid #000;
+    font-size: 1px  ;
+    width: 20px;
+    display: inline-block;
 }
