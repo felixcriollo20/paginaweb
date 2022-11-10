@@ -12,7 +12,6 @@ h1{
 }
 ul li{
     display: inline-block;
- 
 }
 a:hover {
     color: rgb(167, 255, 248);
@@ -28,7 +27,7 @@ a:hover {
     padding-top: 50px;
     position: fixed; 
 } 
- ul:hover {background-color: rgb(220, 228, 228);
+ul:hover {background-color: rgb(220, 228, 228);
 }
 .floating{
     margin-top: 2px;

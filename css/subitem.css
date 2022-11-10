@@ -5,6 +5,7 @@
   li {
     list-style: none;
     border-radius: 1px solid  black;
+
   }
   ul {
     display: inline-flex;
@@ -13,13 +14,20 @@
   nav{
     background-color: rgb(196, 196, 196);
     width: 100%;
- 
   }
   ul:hover {
     background-color: rgb(143, 215, 236);
     font-size: 1em;
   }
   .botom{
-    height: 1em;
+    height: 2em;
+    padding: 3em;
+    text-align: center;
+  }
+  body{
+    background-color: rgb(170, 248, 252);
+  }
+  .botom:hover{
+    background-image: url(../img/images.png);
   }
   

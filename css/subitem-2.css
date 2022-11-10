@@ -1,0 +1,54 @@
+/*estilo general*/
+*{
+    margin: 0;
+    padding:0;
+}
+nav{
+    font-size: 1.3em;
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+    display: table;
+    display: block;
+    position: absolute;
+    width: 100%;
+    background-color: rgb(170, 168, 168);
+}
+nav li a:hover{
+    background-color: darkgray;
+    color: white;
+}
+nav a {
+    text-decoration: none;
+    display: block;
+    padding: 0 3em;
+    color: rgb(5, 5, 5);
+}
+/* menu primer nivel*/
+nav >ul>li{
+    float:left;
+    width: 320px;
+    line-height: 70px;
+}
+nav  li{
+    position: relative;
+}
+nav li li{
+        border-bottom: 1px solid white;
+        max-height: 0;
+        overflow: hidden;
+} 
+nav li:hover > ul > li{
+    visibility: visible;
+    overflow: visible;
+    max-height: 500px;
+    background-color: rgb(168, 168, 177 .9);
+}
+nav ul  ul ul {
+    top: 0;
+    left: 100%;
+}
+body{
+    background-color: rgb(240, 238, 238.3);
+}

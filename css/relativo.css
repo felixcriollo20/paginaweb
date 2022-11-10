@@ -21,11 +21,10 @@
 }
 .cubo4{ width: 100px;
     height: 50px;
-    background-color: rgb(212, 41, 41);
     position: relative;
     color: aliceblue;
     left: 100%;
-    border: 2px dashed;
+    border: 1px solid black;
 }
 .boton-menu{  width: 100px;
 
