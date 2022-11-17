@@ -52,7 +52,3 @@ nav ul  ul ul {
 body{
     background-color: rgb(240, 238, 238.3);
 }
-    @media only screen and (min-width: 768px) and (max-width:1368px) {
-        nav a {
-            visibility: hidden;
-}}
