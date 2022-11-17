@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+}
+nav {
+    font-size: 1.2em ;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    position:absolute;
+    width: 100%;
+    background-color: rgb(102, 101, 101);
+}
+nav a {
+    text-decoration: none;
+    display: block;
+    padding: 0 2em;
+    color: blue;
+}
+nav li {
+    position:relative;
+}
+.icon{
+    background-color: burlywood;
+    margin: 20px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 11px;
+}
+body{
+    background-color: rgba(85, 219, 125, 0.133);
+}
+@media only screen and (min-width: 700px) and (max-width:1368px) {
+    nav a {
+        visibility: hidden;
+}}
+.icon{
+    display: none;
+}

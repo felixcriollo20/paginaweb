@@ -21,7 +21,7 @@
   }
   .botom{
     height: 2em;
-    padding: 3em;
+    padding: 1em;
     text-align: center;
   }
   body{
@@ -30,4 +30,3 @@
   .botom:hover{
     background-image: url(../img/images.png);
   }
-  
