@@ -2,7 +2,7 @@
     width: 350px;
     margin: 0 auto;
     height: 20em;
-    box-shadow:  10px 10px  10px rgba(87, 241, 234, 0.6);
+    box-shadow:  10px 10px  10px rgba(211, 212, 212, 0.6);
     margin-top: 300px;
 }
 .cabecera-azul{
@@ -13,7 +13,7 @@
 
 .cuerpo-login{
     padding: 10px 30px;
-    background-color: rgb(108, 206, 236);
+    background-color: rgb(106, 108, 109);
     height: 300px;
 }
 
