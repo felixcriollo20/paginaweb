@@ -7,8 +7,9 @@ nav {
     font-size: 1.2em ;
 }
 .icon{
-    background-color: rgb(233, 40, 40);
+    background-color: rgb(247, 239, 239);
     display: none;
+    padding: 10px;
 }
 .pull {
     list-style: none;
@@ -23,7 +24,8 @@ nav a {
     text-decoration: none;
     display: inline-block;
     padding: 0 2em;
-    color: rgb(207, 47, 47);
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 @media only screen  and (max-width:780px){
 .icon{
@@ -37,6 +39,13 @@ nav a {
 }
 .pull-visible{
     display:block;
+    background-color: rgb(197, 199, 206);
+    border: 1px solid rgb(121, 117, 117);
+    
+}
+li{
+    border-bottom: 1px solid  rgb(128, 123, 123);
+    padding-top: 10px;
     
 }
 }
