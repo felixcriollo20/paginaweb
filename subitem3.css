@@ -1,0 +1,42 @@
+*{
+    padding: 0%;
+    margin:0%
+}
+body {
+    background-color: rgba(245, 248, 248, 0.781);
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 25px; 
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: block;
+}
+a{
+    color: rgb(248, 248, 248);
+    text-decoration: none;
+}
+
+li:hover{
+    background-color:  rgba(255, 255, 255, 0.781);
+}
+.navar{
+    background-color: rgb(124, 125, 226);
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 1.3em;
+    
+}
+.nava1{
+    padding: 20px;
+    position: relative;
+    top: 0;
+}
+.nava2{
+    background-color: rgb(204, 29, 29);
+    
+}
+
